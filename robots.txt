@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://integral-warthog.10web.me/sitemap.xml
